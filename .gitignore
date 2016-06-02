@@ -1,0 +1,9 @@
+.DS_Store
+/.sass-cache
+/bower_components
+/node_modules
+/dist
+/tmp
+tests/features/report.json
+
+app/main-temp.js
